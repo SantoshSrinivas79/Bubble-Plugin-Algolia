@@ -1,0 +1,9 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "description": "https://www.algolia.com/doc/rest-api/search/",
+    "image": "//s3.amazonaws.com/appforest_uf/f1579123422984x418881234778707840/algolia.svg",
+    "license": "open_source",
+    "name": "Algolia"
+}
