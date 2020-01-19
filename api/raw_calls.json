@@ -1086,13 +1086,13 @@
                     "doc": "Identifies which application you are accessing.",
                     "key": "🔠AppId",
                     "private": true,
-                    "value": "P9GN1RHTEL"
+                    "value": ""
                 },
                 "ABv": {
                     "doc": "Identifies which index you are accessing.",
                     "key": "🔠IndexName",
                     "private": true,
-                    "value": "bubble"
+                    "value": ""
                 }
             }
         }
