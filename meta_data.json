@@ -2,7 +2,7 @@
     "categories": {
         "0": "data (things)"
     },
-    "description": "https://www.algolia.com/doc/rest-api/search/",
+    "description": "https://www.algolia.com/doc/rest-api/search/\n\nFork plugin or copy paste the api connection to set your fields. Until i figure out how to use the sdk. ",
     "image": "//s3.amazonaws.com/appforest_uf/f1579123422984x418881234778707840/algolia.svg",
     "license": "open_source",
     "name": "Algolia"
